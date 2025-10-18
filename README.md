@@ -12,49 +12,48 @@ Me apasiona la automatización, la cultura DevOps y la infraestructura como cód
   <tr>
     <td align="center" width="96">
       <a href="#-mi-stack-de-tecnologías">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="AWS" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="AWS" />
       </a>
       <br>AWS
     </td>
     <td align="center" width="96">
       <a href="#-mi-stack-de-tecnologías">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
       </a>
       <br>Linux
     </td>
     <td align="center" width="96">
       <a href="#-mi-stack-de-tecnologías">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
     <td align="center" width="96">
       <a href="#-mi-stack-de-tecnologías">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="48" height="48" alt="Terraform" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/terraform/terraform-original.svg" width="48" height="48" alt="Terraform" />
       </a>
       <br>Terraform
     </td>
     <td align="center" width="96">
       <a href="#-mi-stack-de-tecnologías">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Kubernetes" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Kubernetes" />
       </a>
       <br>Kubernetes
     </td>
     <td align="center" width="96">
       <a href="#-mi-stack-de-tecnologías">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/python/python-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
       <a href="#-mi-stack-de-tecnologías">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" />
       </a>
       <br>Bash
     </td>
   </tr>
 </table>
-
 ---
 
 ### 🌱 En qué estoy trabajando ahora (WIP)
